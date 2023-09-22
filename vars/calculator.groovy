@@ -5,3 +5,7 @@ def add (X,Y) {
 def mul (X,Y) {
     echo "The Mul of ${X} and ${Y} is ${X*Y}"
 }
+
+def call () {
+    echo "welcome to Calculator"
+}
